@@ -10,6 +10,7 @@ function App() {
   return (
     <>
       <Text></Text>
+      <Text></Text>
     </>
   )
 }
