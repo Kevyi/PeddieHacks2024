@@ -9,3 +9,19 @@
   background-color: #242424;
 }
 
+a:visited { text-decoration: none; color:white; }
+a:hover { text-decoration: none; color:blue; }
+a:hover, a:active { text-decoration: none; color:rgb(161, 161, 161) }
+
+
+html, body, #root{
+  height: 100%;
+}
+
+body > #app{
+  height: 100vh;
+}
+
+#root{
+  flex-grow: 1;
+}

@@ -1,7 +1,10 @@
+import Navbar from "../Components/Navbar"
+
 export default function GamePage(){
     return(
            <>
-           <h1>random stuff</h1>
+           <Navbar></Navbar>
+            
            </> 
 
     );

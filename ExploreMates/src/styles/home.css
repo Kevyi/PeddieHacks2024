@@ -3,7 +3,6 @@
     flex-direction: column;
 }
 
-
 div.header{
 
     display:block;
@@ -15,7 +14,7 @@ div.header{
   }
   
   .main{
-    margin: 30px;
+    margin: 10px;
     padding: 10px;
     flex-direction: column;
     display: flex;
@@ -24,23 +23,26 @@ div.header{
   }
 
   .mainImage{
-    width: 100px;
+    width: 200px;
     margin: 20px;
   }
 
   .playButton{
     width: 300px;
     height: 100px;
-    margin: 20px;
+    margin: 30px;
+    margin-top: 45px;
+    font-size: 30px;
   }
-  
+
   .footer{
     border: 1px solid #4140404f;
     border-radius: 10px;
     box-shadow: 5px 5px 5px hsla(0, 0%, 100%, 0.089);
     padding: 20px;
-    margin-top: auto;
-    
     text-align: center;
-    min-height: 100vh;
+    position:absolute;
+    left:0;
+    bottom:5px;
+    right:0;
   } 

@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 10px;
+}
+
+.navbar .subtitle{
+    margin: 20px;
+    font-size: 30px;
+}

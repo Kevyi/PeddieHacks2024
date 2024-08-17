@@ -1,6 +1,6 @@
 import {Link} from "react-router-dom"
 import "../styles/home.css"
-import mainImage from"../assets/react.svg"
+import mainImage from"../assets/Spotify.png"
 
 export default function homeMain(){
     return(
@@ -9,7 +9,9 @@ export default function homeMain(){
                 <img className = {"mainImage"} src = {mainImage} alt = "A picture of something- Change"></img>
 
                 <Link to = "/gamepage" className = {"link-styles"}>
-                        <button className = {"playButton"}>Play</button>
+                        <button className = {"playButton"}>
+                           <b>Play</b>
+                        </button>
                 </Link>
                 
         </div>

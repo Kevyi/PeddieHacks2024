@@ -1,0 +1,20 @@
+.link-styles{
+    font-size: 100px;
+}
+
+.a:hover{
+    color: "white"
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height : 100px;
+}
+
+.header > p{
+    font-size: 100px;
+    color: aliceblue;
+}

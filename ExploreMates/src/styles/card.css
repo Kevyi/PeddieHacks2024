@@ -1,0 +1,12 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #4140404f;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px hsla(0, 0%, 100%, 0.089);
+    padding: 20px;
+    height: fit-content;
+    flex-grow: 1;
+    align-items: stretch;
+  } 
+
