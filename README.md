@@ -8,4 +8,4 @@ Objective: Create an interactive game that asks the user to choose which song am
 
 
 Technologies: Git, React
-Languagess: Javascript (JSX), HTML, CSS
+Languages: Javascript (JSX), HTML, CSS
