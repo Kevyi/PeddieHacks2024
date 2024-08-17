@@ -1,3 +1,9 @@
+.homeMain{
+    display:flex;
+    flex-direction: column;
+}
+
+
 div.header{
 
     display:block;
@@ -33,6 +39,8 @@ div.header{
     border-radius: 10px;
     box-shadow: 5px 5px 5px hsla(0, 0%, 100%, 0.089);
     padding: 20px;
-    margin: 10px;
+    margin-top: auto;
+    
     text-align: center;
+    min-height: 100vh;
   } 
