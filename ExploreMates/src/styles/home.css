@@ -33,6 +33,7 @@ div.header{
     margin: 30px;
     margin-top: 45px;
     font-size: 30px;
+    cursor:pointer;
   }
 
   .footer{

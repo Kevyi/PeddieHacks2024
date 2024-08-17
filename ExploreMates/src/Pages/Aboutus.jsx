@@ -4,9 +4,14 @@ import "../styles/aboutus.css"
 
 export default function Aboutus(){
 
-    const personA = {name: "Kevin", about : "whatever"}
-    const personB = {name: "Kyle", about : "whatever"}
-    const personC = {name: "Vignesh", about : "whatever"}
+    const personA = {name: "Kevin Hu", 
+                    about : "whatever"}
+
+    const personB = {name: "Kyle Retika", 
+                    about : "whatever"}
+
+    const personC = {name: "Vignesh Selvaraj", 
+                    about : "whatever"}
 
     return(
         <>
